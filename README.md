@@ -1,3 +1,6 @@
+##廖雪峰python教程笔记
+-------
+
 - Python与其他语言区别
     - Python为高级语言
     - Python为解释型语言
